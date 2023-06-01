@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/young_Stars_final_results/static/css/main.0bdf014e.css",
-    "main.js": "/young_Stars_final_results/static/js/main.8f5abe90.js",
+    "main.js": "/young_Stars_final_results/static/js/main.4a833494.js",
     "static/js/787.4aad1aee.chunk.js": "/young_Stars_final_results/static/js/787.4aad1aee.chunk.js",
     "static/media/Artificial Intelligence.png": "/young_Stars_final_results/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
     "static/media/Programming.png": "/young_Stars_final_results/static/media/Programming.0bf799fe1f5f79814d30.png",
@@ -13,11 +13,11 @@
     "static/media/Mental Development.png": "/young_Stars_final_results/static/media/Mental Development.ae546dc6ece903c521a4.png",
     "index.html": "/young_Stars_final_results/index.html",
     "main.0bdf014e.css.map": "/young_Stars_final_results/static/css/main.0bdf014e.css.map",
-    "main.8f5abe90.js.map": "/young_Stars_final_results/static/js/main.8f5abe90.js.map",
+    "main.4a833494.js.map": "/young_Stars_final_results/static/js/main.4a833494.js.map",
     "787.4aad1aee.chunk.js.map": "/young_Stars_final_results/static/js/787.4aad1aee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bdf014e.css",
-    "static/js/main.8f5abe90.js"
+    "static/js/main.4a833494.js"
   ]
 }
